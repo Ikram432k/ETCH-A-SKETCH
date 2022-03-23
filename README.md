@@ -1,2 +1,2 @@
-ETCH-A-SKETCH:
-    In the Project we are going to make a grid of sqaures and convert it into a sketch pad and add hovering effcet to it.
+# etch_a_sketch
+[Live demo](https://ikram432k.github.io/ETCH-A-SKETCH/)
